@@ -1,0 +1,12 @@
+# Overview
+A basic webapp that allows the user to fetch realtime stock data of a company and visualizes it with Mathplot. You can also download the data as a CSV file. I created this webapp as an exercise for using APIs and will extend it later on in my studies.
+## Running the Project
+In order to run the app just open the folder in an IDE of you choice and install the required packages:
+``` py
+pip install requirements.txt
+python stock_tracker.py
+```
+## Feedback 
+If you have any feedback or suggestions of improvement hit me up on one on my socials and we can collaborate.
+
+
